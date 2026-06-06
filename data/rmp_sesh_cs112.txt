@@ -1,0 +1,52 @@
+Source: https://www.ratemyprofessors.com/professor/182646
+Professor: Sesh Venugopal (CS112 Data Structures, Rutgers)
+
+---
+
+Review (Dec 2020, Grade: C, Difficulty: 4/5):
+Good lecturer and lenient during COVID semester. However, this class is NOT easy — expect to put real effort into coding assignments and exams. Do not skip class.
+
+---
+
+Review (Dec 2020, Grade: N/A, Difficulty: 4/5):
+Sesh did a good job leading through the material without making it too overwhelming. It certainly wasn't easy but was manageable. If you're coming from CS111, make sure you study Big O.
+
+---
+
+Review (Dec 2020, Grade: C, Difficulty: 5/5):
+Great guy and good professor. Test heavy with clear grading criteria.
+
+---
+
+Review (Dec 2020, Difficulty: 5/5):
+CS112 is a very difficult weed-out course. Graded by only a few assignments so don't expect an A unless this is the only class you are taking.
+
+---
+
+Review (Aug 2020, Grade: B+, Difficulty: 4/5):
+Some assignment instructions and lecture materials are ambiguous, but he's a solid choice and the best option for CS112. He doesn't like going out of his way to help students — he pushes them to figure things out themselves. This helps in the long run but can be very unhelpful in the short run. Overall recommended.
+
+---
+
+Review (Aug 2020, Grade: A+, Difficulty: 3/5):
+If you want to really learn data structures and are up for a challenge, this is your professor. Very clear lectures and patient with students. He creates the exams so pay attention in lecture. Find a study group, engage in class, do the homework sets, practice past exams, start projects early, and join the Discord.
+
+---
+
+Review (Dec 2019, Grade: B+, Difficulty: 4/5):
+Sesh's YouTube videos do a great job explaining the material but the projects and tests are hard. You really have to put in a lot of effort to understand the material in order to do well.
+
+---
+
+Review (May 2019, Grade: B+, Difficulty: 4/5):
+Good professor who knows a lot about Java and data structures. Lecture wasn't always critical but there were a few exam questions about things he mentioned only in lecture. His YouTube videos are extremely valuable.
+
+---
+
+Review (May 2019, Difficulty: 4/5):
+Be prepared to teach yourself a lot. Only bother going to Sesh's lectures since he coordinates the course and develops all graded assignments. Centeno teaches sections of the course but is always behind.
+
+---
+
+Review (May 2018, Grade: B, Difficulty: N/A):
+Easy to pass but hard to get an A.
