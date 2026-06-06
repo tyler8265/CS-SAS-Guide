@@ -1,0 +1,72 @@
+Source: https://www.reddit.com/r/rutgers/comments/kpualv/review_of_rutgers_cs_part_2_classes_ratings/
+
+Original Post (u/alphacentauri3):
+
+CS111 (Intro to CS)
+This course was my first CS class at Rutgers and honestly it was fairly straightforward. It started with pseudocode and went into the basics of Java. It also had some algorithmic topics at the end such as searching, sorting, and Big O. If you haven't ever been introduced to programming before, this course will be more challenging and will require you to think in a certain way.
+Rough Difficulty: 1/5 with Centeno if you have coded before, otherwise 2/5
+
+---
+
+CS112 (Data Structures)
+The single most important course for any software engineering interview. Take this class seriously. Try to make sure you understand the concepts and don't just memorize them. Start projects early — preferably within the first couple days they're given. If you see yourself copying and pasting lines of code, that's almost always a bad idea — try modularizing it by creating a function. Do projects on your own, but feel free to consult with friends and TAs on how to best attack a problem. Do problem sets — they are the best way to do well in this course.
+Rough Difficulty: 3/5 with Venugopal
+
+---
+
+CS205 (Discrete 1)
+This class focuses on logic, proofs, and relations. If you put in the effort, it's honestly not too bad. It falls into the category of classes that are important for pure computer science, but not necessarily for software engineering. If you do your homework, you should be more than fine.
+Rough Difficulty: 1.5/5 with Moshkovitz
+
+---
+
+CS206 (Discrete 2)
+This class focuses on probability theory and is similar to CS205. It's harder than CS205, but not by much. If you do your homework, you should be more than fine.
+Rough Difficulty: 2/5 with Ames
+
+---
+
+CS211 (Computer Architecture)
+This class introduces you to C and covers topics ranging from data representation to assembly language to CPU and memory design to caching. It's a great course for teaching you how a computer works and how information flows between memory and CPU. The projects were on par with Data Structures difficulty, though in C. If you're completely new to C, the projects may be slightly more difficult.
+Rough Difficulty: 3/5 with Menendez
+
+---
+
+CS344 (Algorithms)
+This class teaches various algorithms — searching and sorting arrays, finding shortest paths in graphs, dynamic programming, etc. You don't have to memorize every algorithm, but understanding the general concept, purpose, and associated data structures will carry you far. My professor was very easy going, all exams and homework were open note, and there was a sizeable curve at the end — take the rating with a grain of salt.
+Rough Difficulty: 2.5/5 with Zhang
+
+---
+
+CS214 (Systems Programming)
+This class teaches a lot about how C works and can be considered an intro to OS. You'll learn about memory management, system calls, and multithreading. The concepts are great but the projects with Francisco are extremely long and unreasonable — the second to last project took around 40 hours and the last took around 110 hours solo. Project descriptions are also very unclear. If you can take this class without Francisco, that would be ideal.
+Rough Difficulty: 5/5 with Francisco
+
+---
+
+CS336 (Databases)
+This class covers SQL, NoSQL, and database systems. It culminates in an end-of-year project — ours was a web application train reservation system using Java and AWS RDS. The project took the group about 2 weeks. Low time commitment until the project is assigned. The course is worthwhile but incredibly slow and dry — all topics could be learned faster on your own.
+Rough Difficulty: 2/5 with Miranda
+
+---
+
+CS416 (Operating Systems)
+One of the best classes. Goes deeper into system calls, scheduling, virtualization, concurrency, memory, and disk storage. Projects averaged about 20 hours and were genuinely enjoyable — you felt like you were learning the whole time. Project descriptions are clear. Avoid Francisco for this course unless it's your last chance.
+Rough Difficulty: 3.5/5 with Nath
+
+---
+
+CS419 (Computer Security)
+Covers security topics like buffer overflow, XSS, and OS-level security from a high level. Very little emphasis on actually doing attacks — more about concepts and historical examples. Projects taught very little. Take it if you want an easy course with minimal effort. If you're serious about security, do CTF competitions instead.
+Rough Difficulty: 1/5 with PK
+
+---
+
+ECE424 (Cryptography)
+A security course from a mathematical perspective. Covers symmetric vs asymmetric encryption, Diffie-Hellman, RSA, and more. More interesting than CS419 and goes into actual details of how these topics work. Only one project, took about 5 hours. The professor is one of the nicest at Rutgers and really cares about your learning.
+Rough Difficulty: 1/5 with Trappe
+
+---
+
+u/LieutenantCurly:
+CS205 was a 1.5/5 with Moshkovitz, but I had Allender and his CS205 is so hard I'd rate it 4.5/5 or even 5/5.

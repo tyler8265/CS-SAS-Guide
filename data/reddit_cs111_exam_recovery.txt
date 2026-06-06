@@ -1,0 +1,44 @@
+Source: https://www.reddit.com/r/rutgers/comments/1o6x57h/am_i_cooked_cs111/
+
+Original Post (u/deleted):
+I genuinely haven't attended any of the classes and haven't studied. How do I go about this? Exam 2 is in a couple of weeks.
+
+---
+
+u/SandyShocker:
+CS111 is not too hard, so you could probably figure it out — you have a couple weeks. Have you at least looked at the material and have some experience with Java?
+
+---
+
+u/RuthBaderZynsburg:
+CS111 exam in a couple weeks and you're already thinking about it? You're setting the curve. It's been a long time since I took it but that's a very easy class on the absolute basics of some very easy languages. Give it a couple hours once or twice between now and the test and you're going to be just fine. And this is coming from a business major who graduated and went into construction instead.
+
+---
+
+u/Opening_Web1898:
+You need to vigorously study and practice the old exams, know how to basic code, know run times, and understand the other core concepts.
+
+---
+
+u/futurafreelover1123:
+Just do all the old exams — you should be fine.
+
+---
+
+u/Prestigious-Hour-215:
+Exam 2 was a little easier than Exam 1 if I remember correctly.
+
+---
+
+u/drs7896:
+CS111 is easy enough to learn everything you need before that exam if you start now — just have to lock in and put in the time.
+
+---
+
+u/Fickle_Musician4213:
+Watch Centeno's videos on the official CS111 website. They saved me. I went from not knowing anything about arrays to being able to do them and complete the homework just 3 hours later. Also do the recitation practice slides. As for the lecture slides, forget them. The recitation slides and Centeno's videos are what actually help.
+
+---
+
+u/mp_matthew:
+I'm in CS111 currently. If you have prior coding experience it's really quite easy. If you're new to this, look through all the slides and published code. They also have a study group on Tuesdays that I'd recommend, and you should be asking questions at recitation.

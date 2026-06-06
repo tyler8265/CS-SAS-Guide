@@ -1,0 +1,29 @@
+Source: https://www.reddit.com/r/rutgers/comments/eeount/how_can_i_get_an_a_in_cs112/
+
+Original Post (u/deleted):
+I heard CS112 is a pretty hard class. Is it possible to get an A and how?
+
+---
+
+u/cancancan68:
+Project descriptions in CS112 are difficult to understand — don't let that scare you. Read the description carefully on the first day it's released, then let your mind process it. Come back the next day and you'll have a much better understanding. Start with whatever part you understand best and make at least some progress every day. Problem sets are very important and the best way to prepare for exams.
+
+---
+
+u/butimsosleepy:
+Start projects early, study the problem sets like crazy, look over past exams, and make sure you really understand the material. If you're struggling, go to office hours or find a tutor. Past exams are available at: https://github.com/USMC1941/CS112-Rutgers/tree/master/Practice%20Exams
+
+---
+
+u/deleted:
+Sesh's videos on YouTube are super helpful. Make sure you understand the problem set questions because Sesh often bases exam questions directly on them — same goes for old practice exams. It's also important to have a good understanding of Big O and runtime efficiency analysis. When I took the course, most of the final was deriving Big O and counting operations. Start projects early — most are very doable if you give yourself enough time.
+
+---
+
+u/vishal929:
+Read the first few chapters of the textbook before the semester starts. A lot of people mess up with linked lists and Big O early on, which is the basis for everything else. Read up to binary search trees at minimum. Attend every lecture and do the problem sets early. If you don't understand a problem set, go to recitation that week. Do projects early — if you've read ahead, you can finish them in a weekend comfortably. Make sure you can understand Big O notation and trace comparisons of algorithms and data structure implementations — that is one of the most important things in this class. Sesh also has videos on his YouTube channel if you're not a reader.
+
+---
+
+u/moseschrute19:
+Go to Sesh's lectures. There is walk-in tutoring available and class material including past exams is posted on GitHub — just Google "Rutgers data structures exam." Also join the CS Discord. Recitation attendance is not taken.

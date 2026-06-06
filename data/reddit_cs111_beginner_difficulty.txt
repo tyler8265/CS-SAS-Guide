@@ -1,0 +1,48 @@
+Source: https://www.reddit.com/r/rutgers/comments/14ndsgd/how_geared_towards_beginners_is_cs111/
+
+Original Post (u/throwaway_cs111):
+I'd like to take a few CS classes, ideally 111 as that's a prerequisite for a few other classes, though I haven't had much coding experience since Scratch in middle school. Does CS111 require significant coding knowledge to do well in?
+
+---
+
+u/queestionnacc:
+I took it this past fall semester and had the best prof for it. I also had programming experience, and I knew 75% of the content already but in another programming language. I did get an A.
+
+Honestly, the class is kind of crap. My knowledge came from being self-taught, so I expected something higher quality than my self teaching. It was not. The class goes too fast (e.g., the basics) and too slow (e.g., searching & sorting) in the wrong places.
+
+It doesn't require coding knowledge before taking, no, but I honestly would have been stressed if I didn't have any. The good news is you can supplement lectures with free online content.
+
+---
+
+u/Sure-Version3733:
+Nope, you'll pick up the concepts quickly. It's almost impossible to fail if you do the assignments. If you wanna get ahead in 111 (and 112 if you want), Princeton offers free courses on Coursera that teaches the fundamentals of Java and everything you need to know. CS111/112 uses the exact same slides as them.
+
+---
+
+u/BorneFree:
+I was a junior genetics major and took CS111 with zero coding experience. I'd say the vast majority of the class has at least some experience coding, with around 25% having extensive experience. For me it was a very difficult class because of how far behind the curve I was in comparison to the rest of the class. I got a B and spent significantly more time studying CS111 than Orgo which I got an A in lol.
+
+---
+
+u/randomboiboiboiboi:
+It's taught in Java on Visual Studio Code. Generally you don't really need to have significant coding knowledge to do well in it. There are two sections, Scarlet and Grey, which they will require you to do a non-graded quiz to decide which one you go to (for most people it's Grey). My recommendation is to learn some basics of Java — basic math, write and print "hello world", and set up VSCode before the semester starts.
+
+---
+
+u/RU1st_yes:
+I got 898/1000 points (B+) with absolutely zero coding knowledge. It's definitely beginner friendly — they have tutoring and recitation was great for answering questions.
+
+---
+
+u/dlatngh:
+Nope, I knew nothing about coding and I ended with an A. I ended up really liking coding enough to decide that it's what I wanted to pursue.
+
+---
+
+u/abs2000:
+I went into CS111 already having completed the free Princeton Java courses on Coursera (Computer Science: Programming with a Purpose, Algorithms 1 & 2). I definitely recommend those online courses — they cover a lot, from CS111 and 112 to some of 344.
+
+---
+
+u/anonymous:
+I had some programming background going into CS111, but I thought it was still very tough. If you're planning to take this class in the fall, I'd recommend grabbing a solid Java book and diving into some programming over the summer. It'll definitely give you a leg up.

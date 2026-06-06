@@ -1,0 +1,49 @@
+Source: https://www.reddit.com/r/rutgers/comments/1rq7xay/is_calc_2_possible_to_pass/
+
+Original Post (u/deleted):
+I've spent 22 hours studying for this upcoming midterm and I got a 40% on the first one. Every time I think I got a question correct, it's completely wrong. The exam requires memorizing derivatives like -ln|csc(x) + cot(x)| +C, double-angle formulas, power reduction formulas, geometric sequences, the integral test, P-series test, ratio test, trig substitution, integration by parts, the nth-term test, Pythagorean identities, and more. Is it even possible to pass?
+
+---
+
+u/awesomesauce201:
+I took Calc 2 back in fall 2021. Go to lectures, do the practice problems, and use tutoring and LA sessions — those are your best friend.
+
+---
+
+u/drs7896:
+I passed Calc 2 by memorizing the formula sheet. I spent the first 15 minutes of every exam writing the entire formula sheet on the back page before starting. I wrote it out dozens, maybe hundreds of times — in class, at work, on the bus, any free time I had. Calc is all about memorizing rules and formulas, which actually becomes the easy part. You end up just messing up simple arithmetic. You can pass.
+
+---
+
+u/SadShaco:
+Same method worked for me. A lot of Calc 1 and 2 is just memory. If you focus on getting every formula down, the class becomes a breeze — and I'm no star student.
+
+---
+
+u/zoutendijk:
+Do practice problems. Memorizing trig subs and integrals is frustrating but if you do enough problems, knowing what test to use or what to set as U and dV becomes intuition based on pattern recognition. I failed my first Calc 2 midterm, spent about 10 hours per week solely on homework and practice problems, and pulled out a B+. My old teacher said calculus is like basketball — watching doesn't help, you won't get good unless you actually do it.
+
+---
+
+u/UrBoiKrisp:
+Ask your LA for tips. They've been in your shoes and will have good things to share. A lot of the rules you have to memorize also have intuition behind them — searching for proofs or explanations can help you understand why certain tests or methods work.
+
+---
+
+u/turnoffandonn:
+The professor asked who was retaking the course on the first day and about 50% of the class raised their hand for Calc 152. What worked for me the second time was doing more book problems instead of focusing on theory. Good luck.
+
+---
+
+u/Exact-Loan5500:
+I took Calc 2 and Data Structures the same semester. What worked for me: watch a YouTube video to get familiar with a topic, then do 30 problems on it, then move on. Once you've covered everything on the midterm review, spend at least a week doing every problem on it. Mark the ones you couldn't solve and note why. Use help to figure out the pattern, redo every problem, then repeat — marking what you still don't know each time. By the fourth pass, do it from memory. I went from a 60 on Midterm 1 to an 85 on Midterms 2 and 3 using this method. Also go to the Rutgers Calc 2 page — there's a link to Vera, a professor who posted all the problems they might use on midterms and recitations. Bang those out. It's all about pattern recognition.
+
+---
+
+u/phatplatters:
+What worked for me was learning and reviewing everything, then grinding the review sheet.
+
+---
+
+u/user793462:
+Calc 2 needs time to digest — it's fast paced and you need time to sit with the material. Brute force memorization doesn't work. Be intentional: if you're struggling with trig substitution, focus specifically on what you don't understand. Start from what you do know and build from there. Actually attempt problems without looking at the answer — let your brain use active recall and pattern recognition for problem types.

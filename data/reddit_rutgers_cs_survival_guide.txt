@@ -1,0 +1,67 @@
+Source: https://www.reddit.com/r/rutgers/comments/kpuwo9/review_of_rutgers_cs_part_1_my_journey_and/
+
+Original Post (u/alphacentauri3):
+
+--- COURSE DIFFICULTY AND ADVICE ---
+
+CS111 (Intro to CS):
+Felt like a review for someone with prior experience. Projects took at most a day. If you haven't been introduced to programming before, this course will be more challenging. Difficulty is manageable with Centeno.
+
+CS112 (Data Structures):
+The single most important course for software engineering interviews. Focus all your energy on understanding every concept. Do problem sets — they are the best way to do well. Start projects early. Do projects on your own but consult friends and TAs on how to approach problems. Becoming an LA or TA for this course is one of the best ways to reinforce your understanding.
+
+CS205 (Discrete 1):
+Logic, proofs, and relations. Not too bad if you put in effort. Important for pure CS but not necessarily for software engineering. Do your homework and you'll be fine.
+
+CS206 (Discrete 2):
+Probability theory. Similar to CS205 but slightly harder. No projects — just occasional homework.
+
+CS211 (Computer Architecture):
+Similar difficulty and time commitment to CS112. Covers C, data representation, assembly language, CPU and memory design, and caching. Great course for understanding how a computer works.
+
+CS214 (Systems Programming):
+Great concepts but Francisco's projects are unreasonably long. One project took 40 hours, another took 110 hours solo due to a partner who contributed nothing. Project descriptions are unclear and Francisco frequently gives contradictory clarifications. If you can avoid Francisco, do it. If you must take it with him, take one fewer class that semester.
+
+CS336 (Databases):
+Low time commitment until the final group project, which took about 20 hours total. Covers SQL and database systems. Worthwhile but slow and dry — all topics can be learned faster on your own.
+
+CS344 (Algorithms):
+Covers searching, sorting, shortest paths, dynamic programming, etc. Understanding concepts and associated data structures matters more than memorizing algorithms.
+
+CS416 (Operating Systems):
+One of the best classes. Covers system calls, scheduling, virtualization, concurrency, memory, and disk storage. Projects averaged 20 hours and were genuinely enjoyable. Avoid Francisco here too unless it's your last chance.
+
+CS419 (Computer Security):
+Easy course with little effort required. Covers security topics from a high level — buffer overflow, XSS, OS-level security. Projects taught very little. Take it only if you want an easy course. For serious security learning, do CTF competitions instead.
+
+ECE424 (Cryptography):
+Interesting security course from a mathematical perspective. Covers symmetric vs asymmetric encryption, Diffie-Hellman, RSA. Only one project, took about 5 hours. Professor Trappe is one of the nicest at Rutgers.
+
+--- GENERAL ADVICE ---
+
+How much does GPA matter?
+For industry, above 3.0 is fine. Don't stress over straight A's — passion and knowledge matter more. Having a couple W's on your transcript is completely fine and will not be questioned.
+
+Most important electives:
+CS214 (Systems), CS416 (OS), CS352 (IT), and CS417 (Distributed Systems) are the best electives. Systems and OS go hand in hand and teach low-level programming. CS440 (Intro to AI) also seems like a good course. CS336 (Databases) is useful but slow — you can learn the content faster on your own.
+
+Professors to avoid:
+Francisco. His projects are unnecessarily long, descriptions are poor, and he frequently gives contradictory answers during clarification. If you have to take a course with him, take one fewer class that semester to compensate.
+
+How many CS classes per semester?
+2-3 CS courses plus 1 elective is manageable. Pairing a high-workload course like CS214 with a lighter one like CS336 helps balance the semester. Do not take 4-5 CS courses at once — it leads to passing without truly understanding the material.
+
+Best way to do well in classes:
+Always start projects within the first week they are assigned. You never know how long a project will actually take. Go to TA office hours — most people don't take advantage of this, especially in upper-level courses. Find friends in your classes and study together. Do all projects on your own even if you collaborate on approach — you will come out a stronger engineer.
+
+Are personal projects important?
+Yes. Aim for 2-3 projects on your resume using different tech stacks. Pick something you're interested in and start simple. A project doesn't have to be original — it just needs to show you can work with certain technologies effectively. Web apps (React frontend, Node backend) are in high demand.
+
+How to get internships:
+Apply early — applications open in July/August for the following summer. Apply for co-ops as they are less competitive. Reach out directly to university recruiters on LinkedIn. Have a clean resume with projects, relevant experience, and GPA if above 3.0.
+
+Being a TA/LA:
+One of the most useful experiences at Rutgers. Reinforces your understanding of the subject, builds public speaking and problem-solving skills, and is consistently brought up positively in interviews. Interviewers appreciate that you went out of your way to teach others.
+
+Leetcode prep:
+No fixed number of problems needed — the goal is pattern recognition. Around 60 problems is where patterns started clicking for this student. Use Python if possible — it's the easiest for implementing data structures quickly.
