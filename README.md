@@ -230,23 +230,25 @@ One way my implmentation diverged from the spec was the AI tool plan. I diverged
 **Instance 1**
 
 - *What I gave the AI:* I gave Claude my generate() function, that lives in generate.py.
-- *What it produced:* Simplify it like this — build a context string and sources list, then pass both to the LLM:
-  pythoncontext = ""
-  sources = []
-  for i in range(5):
-      context += f"Source: {top_five_chunks['metadatas'][0][i]['source']}\n"
-      context += f"Content: {top_five_chunks['documents'][0][i]}\n\n"
-      sources.append(top_five_chunks['metadatas'][0][i]['source'])
-  Then pass context in the user message:
-  python{"role": "user", "content": f"Context:\n{context}\n\nQuestion: {query}"}
-  And return both the answer and sources:
-  pythonreturn res.choices[0].message.content, sources
-  Rewrite the function with these fixes.
+- *What it produced:*
+Simplify it like this — build a context string and sources list, then pass both to the LLM:
+pythoncontext = ""
+sources = []
+for i in range(5):
+ context += f"Source: {top_five_chunks['metadatas'][0][i]['source']}\n"
+ context += f"Content: {top_five_chunks['documents'][0][i]}\n\n"
+ sources.append(top_five_chunks['metadatas'][0][i]['source'])
+Then pass context in the user message:
+python{"role": "user", "content": f"Context:\n{context}\n\nQuestion: {query}"}
+And return both the answer and sources:
+pythonreturn res.choices[0].message.content, sources
+Rewrite the function with these fixes.
 - *What I changed or overrode:* I implemented those changes into the function.
 
 **Instance 2**
 
-- *What I gave the AI:* I asked if I could just import the chromadb client, and the rutgers_guide collection.
+- *What I gave the AI:*
+I asked if I could just import the chromadb client, and the rutgers_guide collection.
 - *What it produced:*
 You could import the client and collection from `embed.py`, but that's not a good idea — importing from `embed.py` would run all the embedding code every time you import it, which is slow and unnecessary.
 
@@ -254,7 +256,7 @@ Better to just reinitialize the client and collection in `retrieve.py` — it's 
 
 So start your `retrieve.py` with the imports and initialization. What do you need to import?
 - *What I changed or overrode:* 
-python
+
 from embed import embedding_model
 import chromadb
 
